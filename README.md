@@ -1,2 +1,3 @@
 # Snake game
-[![Watch the video](https://https://raw.githubusercontent.com/mirachirkova/SnakeGame/master/examples/example.png)](https://https://raw.githubusercontent.com/mirachirkova/SnakeGame/master/examples/example.mp4)
+
+<video src="examples/example.mp4" width="320" height="240" controls></video>
